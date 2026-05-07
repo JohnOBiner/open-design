@@ -36,6 +36,10 @@
       "better-sqlite3",
       "electron",
       "esbuild"
+    ],
+    "ignoredBuiltDependencies": [
+      "electron-winstaller",
+      "sharp"
     ]
   }
 }
